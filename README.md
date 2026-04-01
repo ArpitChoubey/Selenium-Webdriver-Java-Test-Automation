@@ -1,15 +1,5 @@
-# Selenium WebDriver Repository
+# Selenium WebDriver Java Test Automation
 
-## 👨‍💻 Author
-
-**Arpit Choubey — SDET | QA | Automation Engineer**
-🔗 **LinkedIn** | **Medium**
-
-## ⭐ Support
-
-If this repository helps you, please **Star 🌟** it!
-
----
 
 ## Overview
 
@@ -139,5 +129,15 @@ Selenium-Webdriver/
 
 * Update driver executable paths as per your system.
 * Use the latest Selenium and browser driver versions.
+
+  
+## 👨‍💻 Author
+
+**Arpit Choubey — SDET | QA | Automation Engineer**
+🔗 **LinkedIn** | **Medium**
+
+## ⭐ Support
+
+If this repository helps you, please **Star 🌟** it!
 
 ---
