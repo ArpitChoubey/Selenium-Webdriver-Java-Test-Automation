@@ -1,4 +1,4 @@
-# 🚀 Selenium WebDriver Java Test Automation | Selenium v4.11.0
+# 🚀 Selenium WebDriver Java Test Automation | Selenium v4.11.0 | 🔵 Azure DevOps | CI/CD & Pipeline Automation |
 
 <p align="center">
 
@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/Automation-QA-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/Open-Source-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure%20DevOps-CI%2FCD-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white"/>
 
 </p>
 
@@ -43,7 +44,7 @@ It covers everything from Selenium basics to advanced browser interactions, maki
 | 📊 TestNG Reports | Execution Reporting |
 | 🔧 Eclipse IDE | Development Environment |
 | 🔄 Git & GitHub | Version Control |
-
+| 🔵 Azure DevOps             | CI/CD & Pipeline Automation |
 ---
 
 # ⭐ Highlights
@@ -111,7 +112,9 @@ Selenium-Webdriver-Java-Test-Automation
 │
 ├── pom.xml
 │
-└── README.md
+└├── azure-pipelines.yml
+│     
+── README.md
 ```
 
 ---
